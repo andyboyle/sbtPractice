@@ -1,3 +1,3 @@
 object Hi {
-  def main(args: Array[String]) = println("Hey There!")
+  def main(args: Array[String]) = println("Hey There, dude!")
 }
